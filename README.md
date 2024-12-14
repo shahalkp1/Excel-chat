@@ -1,8 +1,6 @@
 # Data Query Assistant
 
-![Data Query Assistant]("https://github.com/user-attachments/assets/e2c31e70-7949-4478-b73a-ba0745e5c983")
-
-**Data Query Assistant** provides a free and intuitive way to interact with your data using natural language. 
+**Excel-Chat** provides a free and intuitive way to interact with your data using natural language. 
 
 ## Features
 - Upload `.csv` or `.xlsx` files.
