@@ -31,8 +31,8 @@ Follow these steps to set up and run the project locally:
      pip install -r requirements.txt
 
 4. **Set API Key**
-     Add your Bamboo LLM API key to a .streamlit/secrets.toml
-     You can get your free API key signing up at https://pandabi.ai
+     - Add your Bamboo LLM API key to a .streamlit/secrets.toml
+     - You can get your free API key signing up at https://pandabi.ai
 
 5. Run the Application
     streamlit run app.py
