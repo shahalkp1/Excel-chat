@@ -1,4 +1,4 @@
-# Data Query Assistant
+# Excel-Chat
 
 **Excel-Chat** provides a free and intuitive way to interact with your data using natural language. 
 
